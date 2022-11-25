@@ -1,7 +1,7 @@
 # Hi, I'm Gonçalo
 
 ## I'm a Student and Developer.
-- 🔭 3nd year of my Bachelor's Degree in CS 
+- 🔭 3rd year of my Bachelor's Degree in CS 
 - 🌱 I’m currently learning everything related to programming
 - 🥅 2023 Goals: Learn more about GitHub, JAVA , C and Assembly.
 <br>
