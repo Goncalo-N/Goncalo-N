@@ -8,5 +8,5 @@
 <details>
   <summary>GitHub Stats</summary>
   <br>
-<img align="left" alt="Goncalo-N's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Goncalo-N&show_icons=true&theme=highcontrast"/>
+<img align="left" alt="Goncalo-N's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Goncalo-N&show_icons=true&theme=radical"/>
   </details
