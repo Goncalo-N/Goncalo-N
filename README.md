@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer.
 - 🔭 3rd year of my Bachelor's Degree in Informatic engineering 
-- 🌱 I’m currently learning LUA
+- 🌱 I’m currently learning  modern frameworks and APIs
 - 🥅 2023 Goals: Learn more about GitHub, JAVA , C and Assembly.
 <br>
 <details>
