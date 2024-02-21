@@ -1,4 +1,4 @@
-# Hi, I'm Gonçalo
+# Hi, I'm Gonçalo Nogueira
 
 ## I'm a Student and Developer.
 - 🔭 3rd year of my Bachelor's Degree in Informatic engineering 
