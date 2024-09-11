@@ -1,9 +1,9 @@
 # Hi, I'm Gonçalo Nogueira
 
 ## I'm a Student and Developer.
-- 🔭 Last year of my Bachelor's Degree in Informatic engineering 
+- 🔭 Bachelor's Degree in Informatic engineering 
 - 🌱 I’m currently trying to learn more about modern frameworks and APIs, currently an intern at SweetCare
-- 🥅 2024 Goals: Learn more about JS, Node , BackEnd Developing and getting more work experience.
+- 🥅 2024 Goals: Learn more about JS, C#, .Net , BackEnd Developing and getting more work experience.
 <br>
 <details>
   <summary>GitHub Stats</summary>
