@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer.
 - 🔭 Bachelor's Degree in Informatic engineering 
-- 🌱 I’m currently trying to learn more about modern frameworks and APIs, currently an intern at SweetCare
+- 🌱 I’m currently trying to learn more about modern frameworks and APIs
 - 🥅 2024 Goals: Learn more about JS, C#, .Net , BackEnd Developing and getting more work experience.
 <br>
 <details>
